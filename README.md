@@ -3,5 +3,5 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [AA-test](AA-test) | Проверка корректности работы системы сплитования | python, numpy, pandas, scipy.stats, matplotlib |
-| [A/B тестирование](Logs_exp) |  Проверка корректности работы системы сплитования | python, numpy, pandas, scipy.stats, matplotlib|
-| [Отток клиентов](Fitness_centre) | Исследование поведения пользователей мобильного приложения | python, pandas, numpy, seaborn, sklearn |
+| [AB-test](AB-test_1) | Проведение анализа данных АB-теста | python, numpy, pandas, scipy.stats, matplotlib|
+| [AB-test](AB-test_2) | Анализ теста по метрике линеаризованных лайков | python, pandas, numpy, seaborn, scipy.stats |
